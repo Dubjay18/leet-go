@@ -1,16 +1,15 @@
 package main
 
-import "math"
-
 func maxArea(heights []int) int {
-	var max_area int
-	n := len(heights)
-	for p1 := 0; p1 < n; p1++ {
-		for p2 := p1 + 1; p2 < n; p2++ {
-			length := math.Min(float64(heights[p1]), float64(heights[p2]))
-			width := p2 - p1
-			area := length * float64(width)
-			max_area = int(math.Max(float64(max_area), float64(area)))
+	l, r := 0, len(heights)
+	max_area := 0
+	for l < r {
+		area := min(heights[l], heights[r])*r - l
+		max_area = max(max_area, area)
+		if heights[l] < heights[r] {
+			l++
+		} else {
+			r--
 		}
 	}
 	return max_area
