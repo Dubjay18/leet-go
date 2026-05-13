@@ -20,6 +20,7 @@ Each folder contains a standalone Go program:
 - `productExceptSelf/`
 - `removeDuplicates/`
 - `repeatedString/`
+- `staircase/`
 - `subarraySumEqualsK/`
 - `sudoku/`
 - `topKFrequent/`
