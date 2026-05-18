@@ -16,6 +16,7 @@ Each folder contains a standalone Go program:
 - `jumpingOnClouds/`
 - `longestPalindrome/`
 - `maxDepth/`
+- `mini-max-sum/`
 - `plusMinus/`
 - `productExceptSelf/`
 - `removeDuplicates/`
