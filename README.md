@@ -18,6 +18,7 @@ Each folder contains a standalone Go program:
 - `longestPalindrome/`
 - `maxDepth/`
 - `mini-max-sum/`
+- `missingNumber/`
 - `plusMinus/`
 - `productExceptSelf/`
 - `removeDuplicates/`
