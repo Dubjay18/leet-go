@@ -11,6 +11,7 @@ Each folder contains a standalone Go program:
 - `countElemGTPA/`
 - `diagonal-difference/`
 - `EncodeDecode/`
+- `findDisappearedNumbers/`
 - `groupAnagrams/`
 - `hasDuplicate/`
 - `jumpingOnClouds/`
