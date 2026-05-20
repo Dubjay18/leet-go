@@ -8,6 +8,7 @@ Each folder contains a standalone Go program:
 
 <!-- AUTO-GENERATED:START -->
 - `addTwoNums/`
+- `backspaceCompare/`
 - `countElemGTPA/`
 - `diagonal-difference/`
 - `EncodeDecode/`
@@ -25,6 +26,7 @@ Each folder contains a standalone Go program:
 - `productExceptSelf/`
 - `removeDuplicates/`
 - `repeatedString/`
+- `sortedSquares/`
 - `staircase/`
 - `subarraySumEqualsK/`
 - `sudoku/`
