@@ -20,6 +20,7 @@ Each folder contains a standalone Go program:
 - `maxDepth/`
 - `mini-max-sum/`
 - `missingNumber/`
+- `move-zeros/`
 - `plusMinus/`
 - `productExceptSelf/`
 - `removeDuplicates/`
