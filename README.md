@@ -13,6 +13,7 @@ Each folder contains a standalone Go program:
 - `diagonal-difference/`
 - `EncodeDecode/`
 - `findDisappearedNumbers/`
+- `findMaxAverage/`
 - `groupAnagrams/`
 - `hasDuplicate/`
 - `jumpingOnClouds/`
