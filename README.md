@@ -16,6 +16,7 @@ Each folder contains a standalone Go program:
 - `findMaxAverage/`
 - `groupAnagrams/`
 - `hasDuplicate/`
+- `isSubsequence/`
 - `jumpingOnClouds/`
 - `longestPalindrome/`
 - `majorityElement/`
