@@ -1,0 +1,34 @@
+package main
+
+type ListNode struct {
+	Val  int
+	Next *ListNode
+}
+
+func middleNode(head *ListNode) *ListNode {
+
+	if head == nil {
+		return nil
+	}
+	slow := head
+	fast := head
+	for fast != nil && fast.Next != nil {
+		slow = slow.Next
+		fast = fast.Next.Next
+	}
+	return slow
+}
+
+func main() {
+	// Example usage:
+	head := &ListNode{Val: 1}
+	head.Next = &ListNode{Val: 2}
+	head.Next.Next = &ListNode{Val: 3}
+	head.Next.Next.Next = &ListNode{Val: 4}
+	head.Next.Next.Next.Next = &ListNode{Val: 5}
+
+	middle := middleNode(head)
+	if middle != nil {
+		println(middle.Val) // Output: 3
+	}
+}

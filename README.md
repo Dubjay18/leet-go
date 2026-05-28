@@ -15,12 +15,15 @@ Each folder contains a standalone Go program:
 - `findDisappearedNumbers/`
 - `findMaxAverage/`
 - `groupAnagrams/`
+- `hasCycle/`
 - `hasDuplicate/`
 - `isSubsequence/`
 - `jumpingOnClouds/`
 - `longestPalindrome/`
 - `majorityElement/`
 - `maxDepth/`
+- `mergeTwoLists/`
+- `middleNode/`
 - `mini-max-sum/`
 - `missingNumber/`
 - `move-zeros/`
@@ -28,6 +31,7 @@ Each folder contains a standalone Go program:
 - `productExceptSelf/`
 - `removeDuplicates/`
 - `repeatedString/`
+- `reverseLinkedList/`
 - `sortedSquares/`
 - `staircase/`
 - `subarraySumEqualsK/`
