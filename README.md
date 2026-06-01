@@ -9,6 +9,7 @@ Each folder contains a standalone Go program:
 <!-- AUTO-GENERATED:START -->
 - `addTwoNums/`
 - `backspaceCompare/`
+- `binarySearch/`
 - `countElemGTPA/`
 - `deleteDuplicates/`
 - `diagonal-difference/`
@@ -28,6 +29,7 @@ Each folder contains a standalone Go program:
 - `mini-max-sum/`
 - `missingNumber/`
 - `move-zeros/`
+- `nextGreatestLetter/`
 - `palindromeLinkedlist/`
 - `plusMinus/`
 - `productExceptSelf/`
