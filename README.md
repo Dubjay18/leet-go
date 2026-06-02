@@ -19,6 +19,7 @@ Each folder contains a standalone Go program:
 - `groupAnagrams/`
 - `hasCycle/`
 - `hasDuplicate/`
+- `isSameTree/`
 - `isSubsequence/`
 - `jumpingOnClouds/`
 - `longestPalindrome/`
@@ -26,6 +27,7 @@ Each folder contains a standalone Go program:
 - `maxDepth/`
 - `mergeTwoLists/`
 - `middleNode/`
+- `minDepth/`
 - `mini-max-sum/`
 - `missingNumber/`
 - `move-zeros/`
