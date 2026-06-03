@@ -19,6 +19,7 @@ Each folder contains a standalone Go program:
 - `groupAnagrams/`
 - `hasCycle/`
 - `hasDuplicate/`
+- `invertTree/`
 - `isSameTree/`
 - `isSubsequence/`
 - `jumpingOnClouds/`
@@ -33,6 +34,7 @@ Each folder contains a standalone Go program:
 - `move-zeros/`
 - `nextGreatestLetter/`
 - `palindromeLinkedlist/`
+- `pathSum/`
 - `plusMinus/`
 - `productExceptSelf/`
 - `removeDuplicates/`
@@ -42,6 +44,7 @@ Each folder contains a standalone Go program:
 - `sortedSquares/`
 - `staircase/`
 - `subarraySumEqualsK/`
+- `subtree/`
 - `sudoku/`
 - `topKFrequent/`
 - `twoSum/`
