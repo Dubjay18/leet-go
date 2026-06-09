@@ -8,8 +8,10 @@ Each folder contains a standalone Go program:
 
 <!-- AUTO-GENERATED:START -->
 - `addTwoNums/`
+- `averageOfLevels/`
 - `backspaceCompare/`
 - `binarySearch/`
+- `binaryTreePaths/`
 - `countElemGTPA/`
 - `deleteDuplicates/`
 - `diagonal-difference/`
@@ -26,6 +28,8 @@ Each folder contains a standalone Go program:
 - `longestPalindrome/`
 - `majorityElement/`
 - `maxDepth/`
+- `meetingRooms/`
+- `mergeTrees/`
 - `mergeTwoLists/`
 - `middleNode/`
 - `minDepth/`
