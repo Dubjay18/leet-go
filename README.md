@@ -12,6 +12,7 @@ Each folder contains a standalone Go program:
 - `backspaceCompare/`
 - `binarySearch/`
 - `binaryTreePaths/`
+- `convert1Dinto2Darray/`
 - `countElemGTPA/`
 - `deleteDuplicates/`
 - `diagonal-difference/`
