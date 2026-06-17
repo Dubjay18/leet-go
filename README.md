@@ -7,6 +7,7 @@ A small collection of Go solutions for common coding interview and algorithm pro
 Each folder contains a standalone Go program:
 
 <!-- AUTO-GENERATED:START -->
+- `3sum/`
 - `addTwoNums/`
 - `averageOfLevels/`
 - `backspaceCompare/`
