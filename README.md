@@ -18,6 +18,7 @@ Each folder contains a standalone Go program:
 - `diagonal-difference/`
 - `EncodeDecode/`
 - `findDisappearedNumbers/`
+- `findDuplicates/`
 - `findMaxAverage/`
 - `groupAnagrams/`
 - `hasCycle/`
@@ -42,6 +43,7 @@ Each folder contains a standalone Go program:
 - `pathSum/`
 - `plusMinus/`
 - `productExceptSelf/`
+- `rangeSumQuery/`
 - `removeDuplicates/`
 - `removeElements/`
 - `repeatedString/`
