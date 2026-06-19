@@ -8,6 +8,7 @@ Each folder contains a standalone Go program:
 
 <!-- AUTO-GENERATED:START -->
 - `3sum/`
+- `3sumClosest/`
 - `addTwoNums/`
 - `averageOfLevels/`
 - `backspaceCompare/`
