@@ -1,21 +1,27 @@
 package main
 
-func maxArea(heights []int) int {
-	l, r := 0, len(heights)
-	max_area := 0
+import "fmt"
+
+func maxArea(height []int) int {
+	l ,r := 0, len(height) - 1
+	currMax := 0
 	for l < r {
-		area := min(heights[l], heights[r])*r - l
-		max_area = max(max_area, area)
-		if heights[l] < heights[r] {
+		a := (r-l) * min(height[l],height[r])
+		if a > currMax {
+			currMax = a
+		}
+		if height[l] < height[r] {
 			l++
 		} else {
 			r--
 		}
 	}
-	return max_area
+	return currMax
 }
-func main() {
-	h := []int{5, 9, 2, 1, 4}
 
-	println(maxArea(h))
+
+
+func main() {
+c := maxArea([]int{1,8,6,2,5,4,8,3,7})
+fmt.Println(c)
 }
