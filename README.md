@@ -50,6 +50,7 @@ Each folder contains a standalone Go program:
 - `removeElements/`
 - `repeatedString/`
 - `reverseLinkedList/`
+- `sortColors/`
 - `sortedSquares/`
 - `staircase/`
 - `subarraySumEqualsK/`
