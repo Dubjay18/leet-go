@@ -39,6 +39,7 @@ Each folder contains a standalone Go program:
 - `middleNode/`
 - `minDepth/`
 - `mini-max-sum/`
+- `minSubArrayLen/`
 - `missingNumber/`
 - `move-zeros/`
 - `nextGreatestLetter/`
