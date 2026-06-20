@@ -29,6 +29,7 @@ Each folder contains a standalone Go program:
 - `isSameTree/`
 - `isSubsequence/`
 - `jumpingOnClouds/`
+- `lengthOfLongestSubstring/`
 - `longestPalindrome/`
 - `majorityElement/`
 - `maxDepth/`
