@@ -14,6 +14,7 @@ Each folder contains a standalone Go program:
 - `backspaceCompare/`
 - `binarySearch/`
 - `binaryTreePaths/`
+- `characterReplacement/`
 - `convert1Dinto2Darray/`
 - `countElemGTPA/`
 - `deleteDuplicates/`
@@ -45,6 +46,7 @@ Each folder contains a standalone Go program:
 - `nextGreatestLetter/`
 - `palindromeLinkedlist/`
 - `pathSum/`
+- `permutationInString/`
 - `plusMinus/`
 - `productExceptSelf/`
 - `rangeSumQuery/`
