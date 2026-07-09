@@ -23,6 +23,7 @@ Each folder contains a standalone Go program:
 - `findDisappearedNumbers/`
 - `findDuplicates/`
 - `findMaxAverage/`
+- `fruitIntobaskets/`
 - `groupAnagrams/`
 - `hasCycle/`
 - `hasDuplicate/`
